@@ -17,6 +17,7 @@ Controller:
 ![image](https://github.com/O-Cube/CarDashBoard-Sample/assets/65163799/145ec563-000d-4ffc-a629-3be1cf9ba73c)
 
 Outline:
-![cardashboard](https://github.com/O-Cube/CarDashBoard-Sample/assets/65163799/3fc7fb47-3e7e-460c-9c2b-fc9ddc052648)
+![cardashboard](https://github.com/O-Cube/CarDashBoard-Sample/assets/65163799/73ac2fec-7a86-422b-af8e-fdc46e79e116)
+
 
 
